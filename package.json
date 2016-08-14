@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-screeps",
+  "version": "1.0.0",
+  "description": "Globals for screeps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["screeps", "eslintconfig"],
+  "author": "Midge 't Hoen",
+  "license": "ISC"
+}
