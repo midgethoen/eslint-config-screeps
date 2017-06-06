@@ -43,7 +43,7 @@ module.exports = {
     Flag:                true,
     ConstructionSite:    true,
     PathFinder:          true,
-    Game:                true
+    Game:                true,
 
 
     _:                                     true,
